@@ -1,2 +1,2 @@
 # web-developer-demo
-This is my first Git Reposotory
+This is my first Git Repository
